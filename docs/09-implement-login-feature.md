@@ -44,3 +44,4 @@ git checkout 09-implement-login-feature
 ---
 
 - [**Return to previous step**](08-implement-register-feature.md)
+- [**Proceed to next step**](10-setup-store.md)
