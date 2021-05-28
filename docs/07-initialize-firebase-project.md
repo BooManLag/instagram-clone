@@ -87,3 +87,4 @@ After switching to this branch, be sure to run `firebase init` and use your own 
 ---
 
 - [**Return to previous step**](06-implement-register-page-ui.md)
+- [**Proceed to next step**](08-implement-register-feature.md)
