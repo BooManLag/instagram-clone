@@ -24,7 +24,7 @@
    +       } catch (error) {
    +         console.error(error);
    +       }
-   +     }
+         },
    ```
 
 1. Handle authentication state changes in `src/index.js`
@@ -49,13 +49,14 @@
    ```diff
    - registerWithGoogle() {
    -   console.log('register with google');
+   + async registerWithGoogle() {
    +   try {
    +     const provider = new firebase.auth.GoogleAuthProvider();
    +     await auth.signInWithPopup(provider);
    +   } catch (error) {
    +     console.log(error);
    +   }
-   + },
+     },
    ```
 
 ### Switch to completed branch for this step:
@@ -67,3 +68,4 @@ git checkout 08-implement-register-feature
 ---
 
 - [**Return to previous step**](07-initialize-firebase-project.md)
+- [**Proceed to next step**](09-implement-login-feature.md)
