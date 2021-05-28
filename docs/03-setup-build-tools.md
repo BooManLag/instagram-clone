@@ -29,16 +29,16 @@
 
 1. Update imports to use aliases
 
-   a. `src/index.js`
+   - `src/index.js`
 
-   ```diff
-     import { createApp } from 'vue';
-   - import App from './components/App.vue';
-   + import App from '@components/App.vue';
+     ```diff
+       import { createApp } from 'vue';
+     - import App from './components/App.vue';
+     + import App from '@components/App.vue';
 
-     const app = createApp(App);
-     app.mount('#app');
-   ```
+       const app = createApp(App);
+       app.mount('#app');
+     ```
 
 1. Add npm scripts in `package.json`
 
@@ -66,3 +66,4 @@ git checkout 03-setup-build-tools
 ---
 
 - [**Return to previous step**](02-setup-vue-project.md)
+- [**Proceed to next step**](04-setup-routing.md)
