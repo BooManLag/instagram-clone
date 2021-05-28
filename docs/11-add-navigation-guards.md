@@ -114,3 +114,4 @@ git checkout 11-add-navigation-guards
 ---
 
 - [**Return to previous step**](10-setup-store.md)
+- [**Proceed to next step**](12-add-loading-states.md)
