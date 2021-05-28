@@ -54,3 +54,8 @@
 ```bash
 git checkout 02-setup-vue-project
 ```
+
+---
+
+- [**Return to previous step**](01-setup-boilerplate.md)
+- [**Proceed to next step**](03-setup-build-tools.md)
