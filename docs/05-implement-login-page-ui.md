@@ -202,7 +202,7 @@
      cp -r docs/assets src
      ```
 
-1. Use the components we just created in `src/pages/LoginPage.vue`
+1. Use the components we just created in `src/pages/LoginPage.vue` (replace current contents)
 
    ```vue
    <template>
@@ -337,3 +337,4 @@ git checkout 05-implement-login-page-ui
 ---
 
 - [**Return to previous step**](04-setup-routing.md)
+- [**Proceed to next step**](06-implement-register-page-ui.md)
