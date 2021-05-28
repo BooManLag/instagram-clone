@@ -180,3 +180,4 @@ git checkout 13-add-error-handling
 ---
 
 - [**Return to previous step**](12-add-loading-states.md)
+- [**Proceed to next step**](14-add-header-component.md)
