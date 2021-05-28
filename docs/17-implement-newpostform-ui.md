@@ -259,3 +259,4 @@ git checkout 17-implement-newpostform-ui
 ---
 
 - [**Return to previous step**](16-setup-firebase-emulators-suite.md)
+- [**Proceed to next step**](18-save-post-to-firestore.md)
