@@ -66,3 +66,4 @@ git checkout 16-setup-firebase-emulators-suite
 ---
 
 - [**Return to previous step**](15-create-user-profiles.md)
+- [**Proceed to next step**](17-implement-newpostform-ui.md)
