@@ -119,3 +119,4 @@ git checkout 18-save-post-to-firestore
 ---
 
 - [**Return to previous step**](17-implement-newpostform-ui.md)
+- [**Proceed to next step**](19-secure-data-with-security-rules.md)
