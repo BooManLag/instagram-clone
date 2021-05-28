@@ -163,3 +163,4 @@ git checkout 06-implement-register-page-ui
 ---
 
 - [**Return to previous step**](05-implement-login-page-ui.md)
+- [**Proceed to next step**](07-initialize-firebase-project.md)
