@@ -86,3 +86,4 @@ git checkout 19-secure-data-with-security-rules
 ---
 
 - [**Return to previous step**](18-save-post-to-firestore.md)
+- [**Proceed to next step**](20-add-loading-state-and-error-handling.md)
