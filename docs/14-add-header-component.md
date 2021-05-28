@@ -307,3 +307,4 @@ git checkout 14-add-header-component
 ---
 
 - [**Return to previous step**](13-add-error-handling.md)
+- [**Proceed to next step**](15-create-user-profiles.md)
