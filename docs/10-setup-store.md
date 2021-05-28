@@ -78,3 +78,4 @@ git checkout 10-setup-store
 ---
 
 - [**Return to previous step**](09-implement-login-feature.md)
+- [**Proceed to next step**](11-add-navigation-guards.md)
