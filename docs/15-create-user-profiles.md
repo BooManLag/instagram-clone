@@ -59,7 +59,7 @@
      const result = await auth.listUsers(1000);
      for (const user of result.users) {
        await db.doc(`users/${user.uid}`).set({
-         displayName: user.displayName,
+         displayName: user.displayName || null,
          photoURL: user.photoURL || null,
          description: 'Hello world!',
          postsCount: 0,
@@ -93,3 +93,4 @@ git checkout 15-create-user-profiles
 ---
 
 - [**Return to previous step**](14-add-header-component.md)
+- [**Proceed to next step**](16-setup-firebase-emulators-suite.md)
