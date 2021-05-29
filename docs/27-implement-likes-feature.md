@@ -306,4 +306,3 @@ git checkout 27-implement-likes-feature
 ---
 
 - [**Return to previous step**](26-implement-comments-feature)
-- [**Proceed to next step**]()
