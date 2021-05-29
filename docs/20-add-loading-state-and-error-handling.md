@@ -82,3 +82,4 @@ git checkout 20-add-loading-state-and-error-handling
 ---
 
 - [**Return to previous step**](19-secure-data-with-security-rules.md)
+- [**Proceed to next step**](21-implement-feed-and-post-components.md)
