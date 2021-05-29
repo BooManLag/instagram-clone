@@ -98,4 +98,4 @@ git checkout 25-display-post-page-from-firestore
 ---
 
 - [**Return to previous step**](24-display-profile-from-firestore.md)
-- [**Proceed to next step**]()
+- [**Proceed to next step**](26-implement-comments-feature.md)
