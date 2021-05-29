@@ -184,4 +184,4 @@ git checkout 26-implement-comments-feature
 ---
 
 - [**Return to previous step**](25-display-post-page-from-firestore.md)
-- [**Proceed to next step**]()
+- [**Proceed to next step**](27-implement-likes-feature.md)
