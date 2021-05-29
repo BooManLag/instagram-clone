@@ -141,4 +141,4 @@ git checkout 24-display-profile-from-firestore
 ---
 
 - [**Return to previous step**](23-implement-profile-page-ui.md)
-- [**Proceed to next step**]()
+- [**Proceed to next step**](25-display-post-page-from-firestore.md)
