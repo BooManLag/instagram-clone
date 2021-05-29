@@ -639,4 +639,4 @@ git checkout 21-implement-feed-and-post-components
 ---
 
 - [**Return to previous step**](20-add-loading-state-and-error-handling.md)
-- [**Proceed to next step**]()
+- [**Proceed to next step**](22-display-posts-from-firestore.md)
